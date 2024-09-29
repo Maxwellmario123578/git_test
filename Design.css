@@ -1,6 +1,7 @@
 body{
+    font-family: 'Poppins', sans-serif;
     min-height: 10;
-    background: gray;
+    background: rgb(0, 179, 250);
     color: white;
 
     display:flex ;
